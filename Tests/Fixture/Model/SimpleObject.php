@@ -1,9 +1,9 @@
 <?php
 
-namespace wjb\AnnotationReaderBundle\Tests\Fixture\Model;
+namespace wjb\AnnotationResolverBundle\Tests\Fixture\Model;
 
-use wjb\AnnotationReaderBundle\Tests\Fixture\Annotation\Property as PropertyAnnotation;
-use wjb\AnnotationReaderBundle\Tests\Fixture\Annotation\Object as ObjectAnnotation;
+use wjb\AnnotationResolverBundle\Tests\Fixture\Annotation\Property as PropertyAnnotation;
+use wjb\AnnotationResolverBundle\Tests\Fixture\Annotation\Object as ObjectAnnotation;
 
 /**
  * @author Zeljko Mitic <zeljko.mitic@soprex.com>

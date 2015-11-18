@@ -1,14 +1,14 @@
 <?php
 
-namespace wjb\AnnotationReaderBundle\Tests\Service;
+namespace wjb\AnnotationResolverBundle\Tests\Service;
 
 use ReflectionProperty;
 use RuntimeException;
 use Symfony\Bundle\FrameworkBundle\Test\KernelTestCase;
-use wjb\AnnotationReaderBundle\Service\AnnotationResolver;
-use wjb\AnnotationReaderBundle\Tests\Fixture\Annotation\Property as PropertyAnnotation;
-use wjb\AnnotationReaderBundle\Tests\Fixture\Annotation\Object as ObjectAnnotation;
-use wjb\AnnotationReaderBundle\Tests\Fixture\Model\SimpleObject;
+use wjb\AnnotationResolverBundle\Service\AnnotationResolver;
+use wjb\AnnotationResolverBundle\Tests\Fixture\Annotation\Property as PropertyAnnotation;
+use wjb\AnnotationResolverBundle\Tests\Fixture\Annotation\Object as ObjectAnnotation;
+use wjb\AnnotationResolverBundle\Tests\Fixture\Model\SimpleObject;
 
 /**
  * @author Zeljko Mitic <zeljko.mitic@soprex.com>

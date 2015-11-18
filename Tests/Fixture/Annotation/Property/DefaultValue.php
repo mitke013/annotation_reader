@@ -1,6 +1,6 @@
 <?php
 
-namespace wjb\AnnotationReaderBundle\Tests\Fixture\Annotation\Property;
+namespace wjb\AnnotationResolverBundle\Tests\Fixture\Annotation\Property;
 
 /**
  * @author Zeljko Mitic <mitke013@gmail.com>

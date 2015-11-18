@@ -1,13 +1,13 @@
 <?php
 
-namespace wjb\AnnotationReaderBundle\Service;
+namespace wjb\AnnotationResolverBundle\Service;
 
 use Closure;
 use Doctrine\Common\Annotations\AnnotationReader;
 use Doctrine\Common\Annotations\CachedReader;
 use ReflectionParameter;
-use wjb\AnnotationReaderBundle\Exception\MissingParameterException;
-use wjb\AnnotationReaderBundle\Exception\MissingTypeHintException;
+use wjb\AnnotationResolverBundle\Exception\MissingParameterException;
+use wjb\AnnotationResolverBundle\Exception\MissingTypeHintException;
 
 /**
  * @author Zeljko Mitic <zeljko.mitic@soprex.com>

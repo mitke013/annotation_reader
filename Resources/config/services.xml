@@ -6,7 +6,7 @@
 
     <services>
 
-        <service id="wjb.annotation_resolver" class="wjb\AnnotationReaderBundle\Service\AnnotationResolver">
+        <service id="wjb.annotation_resolver" class="wjb\AnnotationResolverBundle\Service\AnnotationResolver">
             <argument type="service" id="annotations.reader" />
         </service>
 

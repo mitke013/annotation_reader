@@ -1,0 +1,12 @@
+{
+  "name": "wjb/annotation_resolver",
+  "description": "Easier resolvent of custom annotations",
+  "homepage": "https://github.com/mitke013/annotation_reader",
+  "license": "MIT",
+
+
+  "autoload": {
+    "psr-4": { "wjb\\AnnotationResolverBundle\\": "" }
+  }
+
+}

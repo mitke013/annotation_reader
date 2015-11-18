@@ -1,6 +1,6 @@
 <?php
 
-namespace wjb\AnnotationReaderBundle\Exception;
+namespace wjb\AnnotationResolverBundle\Exception;
 
 /**
  * @author Zeljko Mitic <zeljko.mitic@soprex.com>

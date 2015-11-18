@@ -1,6 +1,6 @@
 <?php
 
-namespace wjb\AnnotationReaderBundle\Tests\Controller;
+namespace wjb\AnnotationResolverBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 
